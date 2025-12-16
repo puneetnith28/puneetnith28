@@ -57,8 +57,9 @@
 ---
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/puneetnith28/puneetnith28/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
+
 
 ## 📄 Resume
 <p align="center">
