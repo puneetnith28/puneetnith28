@@ -22,7 +22,7 @@
 <td width="55%">
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&width=500&lines=Hi%2C+I%27m+Puneet+Yadav;CSE+Sophomore+at+NIT+Hamirpur;Learning+DSA+in+C++;Active+Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&width=500&lines=Hi%2C+I%27m+Puneet+Yadav;CSE+Sophomore+at+NIT+Hamirpur;Learning+DSA+in+Cpp;Active+Open+Source+Contributor" />
 </p>
 
 <ul>
