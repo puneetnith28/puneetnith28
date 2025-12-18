@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;Open+Source+Contributor;Learning+Data+Structures+%26+Algorithms" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&center=true&vCenter=true&width=750&lines=MERN+Stack;Open+Source+Contributor;Learning+Data+Structures+%26+Algorithms" />
 </p>
 
 ---
@@ -22,13 +22,13 @@
 <td width="55%">
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&width=500&lines=Hi%2C+I%27m+Puneet+Yadav;CSE+Sophomore+at+NIT+Hamirpur;Learning+DSA+in+Cpp;Active+Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&width=500&lines=Hi%2C+I%27m+Puneet+Yadav;CSE+Sophomore+at+NIT+Hamirpur;Learning+DSA+in+Cpp" />
 </p>
 
 <ul>
   <li>🎓 <b>CSE Sophomore @ NIT Hamirpur</b></li>
   <li>🌱 Learning by <b>building real-world projects</b></li>
-  <li>🤝 Actively contributing to <b>Open Source</b></li>
+  <!-- <li>🤝 Actively contributing to <b>Open Source</b></li> -->
 </ul>
 
 </td>
