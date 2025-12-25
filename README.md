@@ -107,7 +107,7 @@
 
 ---
 
-## 🌱 Open Source Contributions Timeline
+## 🌱Contributions Timeline
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=puneetnith28&theme=react-dark&hide_border=true" />
 </p>
