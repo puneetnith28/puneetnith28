@@ -70,12 +70,13 @@
 
 ---
 
-## 🎨 Portfolio
+### 🏅 My Holopin Badge Board
 <p align="center">
-  <a href="https://puneetyportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/View%20Portfolio-Live-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://holopin.io/@puneetnith28">
+    <img src="https://holopin.me/puneetnith28" alt="Puneet Yadav's Holopin badges" />
   </a>
 </p>
+
 
 ---
 
