@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&center=true&vCenter=true&width=750&lines=MERN+Stack;Open+Source+Contributor;Learning+Data+Structures+%26+Algorithms" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&center=true&vCenter=true&width=750&lines=MERN+Stack;Open+Source+Enthusiast;Learning+Data+Structures+%26+Algorithms" />
 </p>
 
 ---
