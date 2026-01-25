@@ -83,8 +83,15 @@
 ## 🧩 Projects
 <p align="center">
 
-<a href="https://github.com/puneetnith28/WorkLoop">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=puneetnith28&repo=WorkLoop&theme=radical" />
+<a href="https://github.com/puneetnith28/Rework">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=puneetnith28&repo=Rework&theme=radical" />
+</a>
+
+<a href="https://github.com/puneetnith28/ChatApp">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=puneetnith28&repo=ChatApp&theme=radical" />
+</a>
+<a href="https://github.com/puneetnith28/Authentication-System">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=puneetnith28&repo=Authentication-System&theme=radical" />
 </a>
 
 <a href="https://github.com/puneetnith28/Portfolio-Website">
