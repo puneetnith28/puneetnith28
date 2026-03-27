@@ -61,12 +61,10 @@
 </div>
 
 
-## 📄 Resume
-<p align="center">
-  <a href="https://drive.google.com/your-resume-link">
-    <img src="https://img.shields.io/badge/Download%20Resume-PDF-22C55E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=puneetnith28&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=puneetnith28&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=puneetnith28&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
