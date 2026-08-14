@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&center=true&vCenter=true&width=750&lines=MERN+Stack;Open+Source+Contributor;Learning+Data+Structures+%26+Algorithms" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Open+Source+Contributor;Learning+Data+Structures+%26+Algorithms" />
 </p>
 
 ---
@@ -22,11 +22,11 @@
 <td width="55%">
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&width=500&lines=Hi%2C+I%27m+Puneet+Yadav;CSE+Sophomore+at+NIT+Hamirpur;Learning+DSA+in+Cpp" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&width=500&lines=Hi%2C+I%27m+Puneet+Yadav;CSE+Prefinal+Year+at+NIT+Hamirpur;Learning+DSA+in+Cpp" />
 </p>
 
 <ul>
-  <li>🎓 <b>CSE Sophomore @ NIT Hamirpur</b></li>
+  <li>🎓 <b>CSE Pre-Final Year @ NIT Hamirpur</b></li>
   <li>🌱 Learning by <b>building real-world projects</b></li>
   <!-- <li>🤝 Actively contributing to <b>Open Source</b></li> -->
 </ul>
@@ -83,33 +83,7 @@
 
 ---
 
-## 🧩 Projects
-<p align="center">
 
-<a href="https://github.com/puneetnith28/Rework">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=puneetnith28&repo=Rework&theme=radical" />
-</a>
-
-<a href="https://github.com/puneetnith28/ChatApp">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=puneetnith28&repo=ChatApp&theme=radical" />
-</a>
-<a href="https://github.com/puneetnith28/Authentication-System">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=puneetnith28&repo=Authentication-System&theme=radical" />
-</a>
-
-<a href="https://github.com/puneetnith28/Portfolio-Website">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=puneetnith28&repo=Portfolio-Website&theme=radical" />
-</a>
-
-</p>
-
-<p align="center">
-  <a href="https://github.com/puneetnith28">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
 
 ## 🧠 Tech Stack
 <p align="center">
